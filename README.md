@@ -1,4 +1,4 @@
-# Adidas US Sales Analysis & Prediction  
+# Sales Predictor Model with Gradient Boosting
 
 ## 📌 Project Overview  
 This project analyzes and predicts Adidas US sales using Python.  
